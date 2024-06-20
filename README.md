@@ -55,6 +55,7 @@ Key Insights and Suggestions:-
  Improve Visibility: Increase product visibility on Amazon through enhanced listings, sponsored ads, and participation in Amazon-specific sales events.
 
 5. Sales Performance Over Time
+   
  Insight: The lowest sales period was in March 2020 with 2.8 million units sold, while sales peaked in November 2021 with 32.2 million units sold.
 
  Suggestions:

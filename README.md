@@ -24,6 +24,7 @@ Key Insights and Suggestions:-
  Marketing Campaigns: Increase investment in marketing campaigns that highlight the unique features and benefits of this product.
 
 2. Top-Selling and Lowest-Selling Products-
+   
  Insight: The Notebook was the best-selling product, while the Networking product line had the lowest sales figures.
 
  Suggestions:

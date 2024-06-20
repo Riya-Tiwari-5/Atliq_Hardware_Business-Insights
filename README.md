@@ -11,8 +11,11 @@ Strategic Initiative:-
 To address this issue, we propose a structured approach to generate insights from ten key ad-hoc data requests. This will involve:
 
 Data Extraction: Utilizing SQL queries to retrieve pertinent data from our databases.
+
 Data Visualization: Converting the extracted data into clear, actionable visualizations.
+
 Insight Generation: Presenting these visualizations to the top management to inform decision-making.
+
 
 Key Insights and Suggestions:-
 1. Sales Growth of Unique Product-
